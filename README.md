@@ -28,4 +28,3 @@ npm run preview
 ```
 
 4. Click the button to request a new token (lasts for an hour).
-5. The search bar should appear.
